@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+h1 {
+	text-align: center;
+	font-family: garamond;
+	color: #156bff;
+	font-size: 30px;
+	border: 2px dotted;
+	width: 15%;
+	padding-left:12px;
+}
+
+h2 {
+	font-family: Pacifico;
+	font-size: 28px;
+
+}
+
+.selfie {
+	border: 15px groove;
+}
+
+section {
+	font-family: sans-serif;
+	color:#30a5a4;
+	line-height: 1.5em;
+}
+
+li {line-height: 2em;}
+
+#email {
+	color: maroon;
+}
+
+#git {
+	color:#a35ea2;
+}
+
+#port {
+	color: #449c40;
+}
